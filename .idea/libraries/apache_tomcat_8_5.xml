@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-8.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/apache-tomcat-8.5.57-windows-x64/apache-tomcat-8.5.57" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/apache-tomcat-8.5.57-windows-x64/apache-tomcat-8.5.57/webapps/docs/appdev/sample/src" />
+      <root url="file://$USER_HOME$/Desktop/apache-tomcat-8.5.57-windows-x64/apache-tomcat-8.5.57/webapps/examples/WEB-INF/classes" />
+      <root url="file://$USER_HOME$/Desktop/apache-tomcat-8.5.57-windows-x64/apache-tomcat-8.5.57/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$USER_HOME$/Desktop/apache-tomcat-8.5.57-windows-x64/apache-tomcat-8.5.57/webapps/examples/jsp/plugin/applet" />
+    </SOURCES>
+  </library>
+</component>
